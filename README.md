@@ -1,4 +1,4 @@
-# ActiveWin10 bawngf File BAT
+# ActiveWin10 bằng File BAT
 ## Hướng Dẫn
 - Tải File theo link dưới và giải nén được file ActiveWin10.bat
 - Chọn file ActiveWin10.bat chuột phải chọn run as administrator
